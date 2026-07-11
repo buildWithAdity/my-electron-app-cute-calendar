@@ -19,3 +19,7 @@ A cozy desktop calendar application built with Electron.
 ---
 
 Created with ❤️ by Adity
+
+## 📝 Documentation
+
+This project is actively maintained.
